@@ -28,10 +28,12 @@ plugins:
         verbose: false
         combined: true
         media_type: print
-        # enabled_if_env: ENABLE_PDF_EXPORT
+        enabled_if_env: ENABLE_PDF_EXPORT
 
 markdown_extensions:
   - footnotes
+  - markdown_blockdiag:
+      format: svg
 
 extra:
   spec:

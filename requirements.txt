@@ -1,5 +1,6 @@
 mkdocs>=0.17.1
 mkdocs-markdownextradata-plugin
 mkdocs-material
+markdown-blockdiag
 WeasyPrint
 mkdocs-pdf-export-plugin 
