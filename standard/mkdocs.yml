@@ -1,0 +1,41 @@
+site_name: Accreditation Standard
+site_author: 'Chris Sharp'
+
+theme: 
+  name: material
+  logo: 'images/logo.svg'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+
+nav:
+    - Front: index.md
+    - Background: standard/background.md
+    - Rationale: standard/rationale.md
+    - High-level Proposal: standard/proposal.md
+    - SFIA-based standard: standard/sfia-based.md
+    - Appendices: 
+        Generic Skills: appendices/generic.md
+        Data Analytics: appendices/data-analytics.md
+        Cybersecurity: appendices/cybersecurity.md
+        Web Developer: appendices/web-dev.md
+        SFIA Skills: appendices/sfia.md
+
+plugins:
+    - search
+    - markdownextradata
+    - pdf-export:
+        verbose: false
+        combined: true
+        media_type: print
+        # enabled_if_env: ENABLE_PDF_EXPORT
+
+markdown_extensions:
+  - footnotes
+
+extra:
+  spec:
+    version: 2.4
+
+extra_css:
+  - 'stylesheets/extra.css'
