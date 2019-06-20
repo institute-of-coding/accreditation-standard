@@ -4,5 +4,8 @@ install:
 build:
 	mkdocs build --clean
 
+serve:
+	mkdocs serve
+
 publish:
 	cd institute-of-coding.github.io && mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch gh-pages
