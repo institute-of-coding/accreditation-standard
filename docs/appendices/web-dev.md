@@ -26,12 +26,11 @@ This is a worked example of a hypothetical instatiation of an IOC degree for a W
 
 | Semester 1        | Semester 2         | Summer           |
 | :---------------  | :----------------  | :--------------  |
-| CSVC301[^17]      | MOBS302[^20]       |                  |
-| RQMS301[^18]      | LEAN302[^21]       |                  |
-| SYSI301[^19]      | PROJ302[^22]       |                  |
-| PROJ301[^12]      |          ...       |                  |
+| CSVC301[^17]      | MOBS302[^21]       |                  |
+| RQMS301[^18]      | LEAN302[^22]       |                  |
+| SYSI301[^19]      | PROJ302[^23]       |                  |
+| PROJ301[^20]      |          ...       |                  |
 
-## Modules
 
 [^1]: [Introductory Programming](courses/A.md)
 
@@ -55,7 +54,7 @@ This is a worked example of a hypothetical instatiation of an IOC degree for a W
 
 [^11]: [Data Modelling & Design](courses/L.md)
 
-[^12]: [Group Project](courses/M.md)
+[^12]: [Yr 2 Group Project](courses/H.md)
 
 [^13]: [Systems Architecture](courses/N.md)
 
@@ -71,8 +70,10 @@ This is a worked example of a hypothetical instatiation of an IOC degree for a W
 
 [^19]: [Systems Integration & Testing](courses/T.md)
 
-[^20]: [Mobile & Cross-Platform Services](courses/U.md)
+[^20]: [Yr 3 Group Project](courses/M.md)
 
-[^21]: [Business Agility](courses/V.md)
+[^21]: [Mobile & Cross-Platform Services](courses/U.md)
 
-[^22]: [Final Project](courses/W.md)
+[^22]: [Business Agility](courses/V.md)
+
+[^23]: [Final Project](courses/W.md)
