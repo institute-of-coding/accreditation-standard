@@ -31,7 +31,6 @@ This is a worked example of a hypothetical instatiation of an IOC degree for a W
 | SYSI301[^19]      | PROJ302[^23]       |                  |
 | PROJ301[^20]      |          ...       |                  |
 
-
 [^1]: [Introductory Programming](courses/PROG101.md)
 
 [^2]: [Network & Security Fundamentals](courses/NWSC101.md)

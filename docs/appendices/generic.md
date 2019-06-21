@@ -4,7 +4,7 @@ From SFIA Version 7
 
 ## Generic Attributes
 
-**Level 3**
+> **Level 3**
 
 ### Autonomy
 
@@ -39,11 +39,11 @@ Understands how own role impacts security and demonstrates routine security prac
 Portfolio, programme and project support PROF
 The provision of support and guidance on portfolio, programme and project management processes, procedures, tools and techniques. Support includes definition of portfolios, programmes, and projects; advice on the development, production and maintenance of business cases; time, resource, cost and exception plans, and the use of related software tools. Tracking and reporting of programme/project progress and performance are also covered, as is the capability to facilitate all aspects of portfolio/ programme/ project meetings, workshops and documentation.
 
-**Level 4**
+> **Level 4**
 
 Takes responsibility for the provision of support services to projects. Uses and recommends project control solutions for planning, scheduling and tracking projects. Sets up and provides detailed guidance on project management software, procedures, processes, tools and techniques. Supports programme or project control boards, project assurance teams and quality review meetings. Provides basic guidance on individual project proposals. May be involved in aspects of supporting a programme by providing a cross programme view on risk, change, quality, finance or configuration management.
 
-**Level 3**
+> **Level 3**
 
 Uses recommended portfolio, programme and project control solutions for planning, scheduling and tracking. Sets up project files, compiles and distributes reports. Provides administrative services to project boards, project assurance teams and quality review meetings. Provides guidance on project management software, procedures, processes, tools and techniques.
 
@@ -51,7 +51,6 @@ Uses recommended portfolio, programme and project control solutions for planning
 
 The management of projects, typically (but not exclusively) involving the development and implementation of business processes to meet identified business needs, acquiring and utilising the necessary resources and skills, within agreed parameters of cost, timescales, and quality. The adoption and adaptation of project management methodologies based on the context of the project and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.
 
-**Level 4**
+> **Level 4**
 
 Defines, documents and carries out small projects or sub-projects (typically less than six months, with limited budget, limited interdependency with other projects, and no significant strategic impact), alone or with a small team, actively participating in all phases. Identifies, assesses and manages risks to the success of the project. Applies appropriate project management methods and tools whether predictive (plan-driven) approaches or adaptive (iterative/agile) approaches. Agrees project approach with stakeholders, and prepares realistic plans (including quality, risk and communications plans) and tracks activities against the project schedule, managing stakeholder involvement as appropriate. Monitors costs, timescales and resources used, and takes action where these deviate from agreed tolerances. Ensures that own projects are formally closed and, where appropriate, subsequently reviewed, and that lessons learned are recorded.
-

@@ -18,7 +18,32 @@ nav:
         Generic Skills: appendices/generic.md
         Data Analytics: appendices/data-analytics.md
         Cybersecurity: appendices/cybersecurity.md
-        Web Developer: appendices/web-dev.md
+        Web Developer: 
+          - Curriculum: appendices/web-dev.md
+          - Modules:
+            - ARCH202: appendices/courses/ARCH202.md
+            - BSYS101: appendices/courses/BSYS101.md
+            - CLIN102: appendices/courses/CLIN102.md
+            - CLIN202: appendices/courses/CLIN202.md
+            - COMP102: appendices/courses/COMP102.md
+            - CSVC301: appendices/courses/CSVC301.md
+            - DMAD201: appendices/courses/DMAD201.md
+            - INTN: appendices/courses/INTN.md
+            - LEAN302: appendices/courses/LEAN302.md
+            - MOBS302: appendices/courses/MOBS302.md
+            - NWSC101: appendices/courses/NWSC101.md
+            - NWSC202: appendices/courses/NWSC202.md
+            - PROF102: appendices/courses/PROF102.md
+            - PROG101: appendices/courses/PROG101.md
+            - PROJ201: appendices/courses/PROJ201.md
+            - PROJ301: appendices/courses/PROJ301.md
+            - PROJ302: appendices/courses/PROJ302.md
+            - RQMS301: appendices/courses/RQMS301.md
+            - SPMG201: appendices/courses/SPMG201.md
+            - SYSI301: appendices/courses/SYSI301.md
+            - UCDD201: appendices/courses/UCDD201.md
+            - WEBD102: appendices/courses/WEBD102.md
+            - WEBP202: appendices/courses/WEBP202.md
         SFIA Skills: 
           - Overview: appendices/skills/index.md
           - Leadership: appendices/skills/leadership.md
