@@ -1,3 +1,3 @@
 # DMAD201: Data Modelling & Design
 
-**15 credits**
+> **15 credits**

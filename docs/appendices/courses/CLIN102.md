@@ -1,6 +1,6 @@
 # CLIN102: Web Content Clinic
 
-**15 credits**
+> **15 credits**
 
 The web content clinic is part of the web development clinic run by the school.
 As a first year member of the clinic, your role will be to populate and update websites that have been developed for clients.

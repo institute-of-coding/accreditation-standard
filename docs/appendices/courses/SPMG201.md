@@ -1,3 +1,3 @@
 # SPMG201: Service & Project Management
 
-**15 credits**
+> **15 credits**

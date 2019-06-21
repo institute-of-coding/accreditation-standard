@@ -1,6 +1,6 @@
 # WEBP202: Web Programming
 
-**15 credits**
+> **15 credits**
 
 ## Block 1 Foundations of web technology
 

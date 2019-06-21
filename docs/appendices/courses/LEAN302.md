@@ -1,3 +1,3 @@
 # LEAN302 : Business Agility
 
-**15 credits**
+> **15 credits**

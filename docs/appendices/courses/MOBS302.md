@@ -1,3 +1,3 @@
 # MOBS302 : Mobile & Cross-Platform Services
 
-**15 credits**
+> **15 credits**

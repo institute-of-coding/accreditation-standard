@@ -1,3 +1,3 @@
 # NWSC202 : Network & Web Security
 
-**15 credits**
+> **15 credits**

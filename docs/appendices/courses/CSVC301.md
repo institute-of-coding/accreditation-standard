@@ -1,6 +1,6 @@
 # CSVC301: Cloud Based Services
 
-**15 credits**
+> **15 credits**
 
 This module introduces the cloud model and the types of resources (processing power, databases, general storage and networking) that can be provided by a typical cloud infrastructure. Different levels of cloud model are investigated, such as Infrastructure as a Service (**IaaS**), Platform as a Service (**PaaS**) and Software as a Service (**SaaS**), and contrasted with the web services model.
 

@@ -1,3 +1,3 @@
 # COMP102: Computational Thinking
 
-**15 credits**
+> **15 credits**

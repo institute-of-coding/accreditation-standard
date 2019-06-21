@@ -32,48 +32,48 @@ This is a worked example of a hypothetical instatiation of an IOC degree for a W
 | PROJ301[^20]      |          ...       |                  |
 
 
-[^1]: [Introductory Programming](courses/A.md)
+[^1]: [Introductory Programming](courses/PROG101.md)
 
-[^2]: [Network & Security Fundamentals](courses/B.md)
+[^2]: [Network & Security Fundamentals](courses/NWSC101.md)
 
-[^3]: [Business Systems & Drivers](courses/C.md)
+[^3]: [Business Systems & Drivers](courses/BSYS101.md)
 
-[^4]: [Developing Web Content](courses/D.md)
+[^4]: [Developing Web Content](courses/WEBD102.md)
 
-[^5]: [Computational Thinking](courses/E.md)
+[^5]: [Computational Thinking](courses/COMP102.md)
 
-[^6]: [Communications and Professional Practice](courses/F.md)
+[^6]: [Communications and Professional Practice](courses/PROF102.md)
 
-[^7]: [Web Content Clinic](courses/G.md)
+[^7]: [Web Content Clinic](courses/CLIN102.md)
 
-[^8]: [Summer Internship](courses/I.md)
+[^8]: [Summer Internship](courses/INTN.md)
 
-[^9]: [Service & Project Management](courses/J.md)
+[^9]: [Service & Project Management](courses/SPMG201.md)
 
-[^10]: [User Centred Design & Development](courses/K.md)
+[^10]: [User Centred Design & Development](courses/UCDD201.md)
 
-[^11]: [Data Modelling & Design](courses/L.md)
+[^11]: [Data Modelling & Design](courses/DMAD201.md)
 
-[^12]: [Yr 2 Group Project](courses/H.md)
+[^12]: [Yr 2 Group Project](courses/PROJ201.md)
 
-[^13]: [Systems Architecture](courses/N.md)
+[^13]: [Systems Architecture](courses/ARCH202.md)
 
-[^14]: [Network & Web Security](courses/O.md)
+[^14]: [Network & Web Security](courses/NWSC202.md)
 
-[^15]: [Web Programming](courses/P.md)
+[^15]: [Web Programming](courses/WEBP202.md)
 
-[^16]: [Web Development Clinic](courses/Q.md)
+[^16]: [Web Development Clinic](courses/CLIN202.md)
 
-[^17]: [Cloud Based Services](courses/R.md)
+[^17]: [Cloud Based Services](courses/CSVC301.md)
 
-[^18]: [Requirements Management](courses/S.md)
+[^18]: [Requirements Management](courses/RQMS301.md)
 
-[^19]: [Systems Integration & Testing](courses/T.md)
+[^19]: [Systems Integration & Testing](courses/SYSI301.md)
 
-[^20]: [Yr 3 Group Project](courses/M.md)
+[^20]: [Yr 3 Group Project](courses/PROJ301.md)
 
-[^21]: [Mobile & Cross-Platform Services](courses/U.md)
+[^21]: [Mobile & Cross-Platform Services](courses/MOBS302.md)
 
-[^22]: [Business Agility](courses/V.md)
+[^22]: [Business Agility](courses/LEAN302.md)
 
-[^23]: [Final Project](courses/W.md)
+[^23]: [Final Project](courses/PROJ302.md)

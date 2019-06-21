@@ -1,6 +1,6 @@
 # RQMS301: Requirements Management
 
-**15 credits**
+> **15 credits**
 
 Comparing traditional approaches with agile processes and practices, you will learn about well-known software development processes, their phases, activities and techniques. This will help you to develop a critical understanding of the diversity of contexts of organisations, problems, and development teams, which will allow you to use your own judgment in a real situation.
 

@@ -1,4 +1,4 @@
-# Summer Internship
+# INTN: Summer Internship
 
 The summer internship is an opportunity for you to gain some real-world experience, and to put into practice some of the skills you have developed in your first two years of study.
 

@@ -19,7 +19,20 @@ nav:
         Data Analytics: appendices/data-analytics.md
         Cybersecurity: appendices/cybersecurity.md
         Web Developer: appendices/web-dev.md
-        SFIA Skills: appendices/sfia.md
+        SFIA Skills: 
+          - Overview: appendices/skills/index.md
+          - Leadership: appendices/skills/leadership.md
+          - Experience: appendices/skills/work-experience.md
+          - ARCH: appendices/skills/arch.md
+          - DTAN: appendices/skills/dtan.md
+          - HCEV: appendices/skills/hcev.md
+          - INCA: appendices/skills/inca.md
+          - PROF: appendices/skills/prof.md
+          - PROG: appendices/skills/prog.md
+          - RELM: appendices/skills/relm.md
+          - REQM: appendices/skills/reqm.md
+          - SCTY: appendices/skills/scty.md
+          - SINT: appendices/skills/sint.md
 
 plugins:
     - search

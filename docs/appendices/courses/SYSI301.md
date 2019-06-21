@@ -1,4 +1,3 @@
 # SYSI301:  Systems Integration & Testing
 
-**15 credits**
-
+> **15 credits**
