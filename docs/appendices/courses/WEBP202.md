@@ -19,3 +19,14 @@ Block 3 examines the trend toward more portable content and content customisatio
 ## Block 4 Developing applications
 
 The final block explores how applications are planned, designed and developed by IT professionals, examining project planning, application design, development environments and tools as well as application deployment and maintenance.
+
+TBD
+
+## Skills Contributions
+
+- [DTAN](../skills/dtan.md)
+- [HCEV](../skills/hcev.md)
+- [INCA](../skills/inca.md)
+- [PROG](../skills/prog.md)
+- [RELM](../skills/relm.md)
+- [SCTY](../skills/scty.md)

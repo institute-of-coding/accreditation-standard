@@ -10,12 +10,20 @@ As well as technical aspects, the module considers the business case for cloud i
 
 A range of cloud operations are demonstrated and included in a set of practical activities to provide hands-on experiences. These activities include:
 
-* using a cloud dashboard to create resource constraint descriptions in which to run virtual machines and other components
+- using a cloud dashboard to create resource constraint descriptions in which to run virtual machines and other components
 
-* creating security rules to control access to cloud resources
+- creating security rules to control access to cloud resources
 
-* launching, accessing, monitoring and destroying cloud resources
+- launching, accessing, monitoring and destroying cloud resources
 
-* scripting and testing an auto-scaling scenario so that an application which comes under a high load is automatically replicated with the load shared between the existing and new resources
+- scripting and testing an auto-scaling scenario so that an application which comes under a high load is automatically replicated with the load shared between the existing and new resources
 
-* use of a programmatic REST API to perform cloud operations.
+- use of a programmatic REST API to perform cloud operations.
+
+## Skills Contributions
+
+- [ARCH](../skills/arch.md)
+- [PROG](../skills/prog.md)
+- [RELM](../skills/relm.md)
+- [SCTY](../skills/scty.md)
+- [SINT](../skills/sint.md)

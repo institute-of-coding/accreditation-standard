@@ -3,3 +3,7 @@
 > **30 credits**
 
 TBD
+
+## Skills Contributions
+
+- [PROG](../skills/prog.md)

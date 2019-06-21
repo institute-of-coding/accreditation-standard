@@ -8,10 +8,16 @@ It doesn’t matter which area of the curriculum you apply – or, indeed, if yo
 
 You should take care to record evidence of your achievements in your e-portfolio.  Over the course of your studies, you need to develop evidence to demonstrate your competence in one of the core SFIA skills:
 
-* Information Security
-* Programming/software development
-* Requirements definition and management
-* Systems integration and build
-* Release and deployment
+- Information Security
+- Programming/software development
+- Requirements definition and management
+- Systems integration and build
+- Release and deployment
 
 As well as evidence of your practical experience, you will also need evidence of your leadership skills, as specified in the SFIA framework.
+
+## Skills Contributions
+
+- [PROF](../skills/prof.md)
+- [EXPERIENCE](../skills/work-experience.md)
+- [LEADERSHIP](../skills/leadership.md)
