@@ -9,6 +9,8 @@ In particular, you will have the opportunity to gain experience using the indust
 
 Each group for this module will be monitored by the module leader, and will also have access to a mentor from industry.
 
+The experience you gain should be recorded in your professional portfolio: it will count towards the experience you require for a "competency" badge.
+
 ## Skills Contributions
 
 - [PROF](../skills/prof.md)
