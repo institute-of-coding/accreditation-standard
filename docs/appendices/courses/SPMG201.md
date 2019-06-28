@@ -10,9 +10,9 @@ In the first part of the module, you’ll look at how service management helps t
 ## Project Management
 This second part of the module will introduce you to project management, with an emphasis on managing software projects. You’ll cover project management techniques and topics – such as project planning and activity planning, and managing risk and allocating resources. You’ll also focus on the techniques that are most relevant to software project management, including:
 
-    choosing an appropriate software development approach
-    estimating how much development effort will be required
-    exploring the tools and techniques for monitoring the progress of projects.
+* choosing an appropriate software development approach
+* estimating how much development effort will be required
+* exploring the tools and techniques for monitoring the progress of projects.
 
 
 ## Skills Contributions
