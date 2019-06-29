@@ -2,7 +2,11 @@
 
 > **15 credits**
 
-TBD
+The module introduces key concepts in networking and cyber security, 
+It incorporates two online courses provided by Cisco:
+
+* networking essentials
+* cybersecurity essentials
 
 ## Skills Contributions
 
