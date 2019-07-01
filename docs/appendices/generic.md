@@ -2,7 +2,7 @@
 
 From SFIA Version 7
 
-## Generic Attributes
+## Responsibility Characteristics - required for all graduates
 
 > **Level 3**
 

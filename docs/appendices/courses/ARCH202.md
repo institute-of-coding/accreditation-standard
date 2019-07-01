@@ -2,6 +2,18 @@
 
 > **15 credits**
 
+_to be turned into a module description_
+
+client - server architectures
+
+web services, http, smtp
+
+APIs 
+
+messaging formats - html, json, xml
+
+soap vs rest / restful
+
 ## Skills Contributions
 
 - [ARCH](../skills/arch.md)

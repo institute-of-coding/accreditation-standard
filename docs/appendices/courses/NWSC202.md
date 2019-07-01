@@ -2,7 +2,9 @@
 
 > **15 credits**
 
-TBD
+This module builds on the networking and security concepts introduced in NWSC101, and explores some of the security issues that are most relevant to web services and their associated protocols.
+
+You will learn to identify common web vulnerabilities, such as injection (for sql, javascript and html) and appropriate countermeasures and resilient approaches that should be adopted to minimise these risks.
 
 ## Skills Contributions
 
