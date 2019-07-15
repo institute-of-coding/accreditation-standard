@@ -13,7 +13,7 @@ nav:
     - Background: standard/background.md
     - Rationale: standard/rationale.md
     - High-level Proposal: standard/proposal.md
-    - SFIA-based standard: standard/sfia-based.md
+    - The Standard: standard/standard.md
     - Appendices: 
         Generic Skills: appendices/generic.md
         Data Analytics: appendices/data-analytics.md
@@ -75,7 +75,7 @@ markdown_extensions:
 
 extra:
   spec:
-    version: 2.4
+    version: 4.1
 
 extra_css:
   - 'stylesheets/extra.css'
