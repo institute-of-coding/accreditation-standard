@@ -14,7 +14,8 @@ nav:
     - Rationale: standard/rationale.md
     - Badges: standard/badges.md
     - The Standard: standard/standard.md
-    - Appendices: 
+    - Appendices:
+        Designing a Curriculum: appendices/design.md
         Generic Skills: appendices/generic.md
         Data Analytics: appendices/data-analytics.md
         Cybersecurity: appendices/cybersecurity.md
