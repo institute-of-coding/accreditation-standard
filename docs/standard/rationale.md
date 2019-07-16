@@ -32,7 +32,7 @@ Furthermore, graduates from a programme meeting the IoC Accreditation Standard s
 
 Competence lies at one end of a spectrum that starts with knowledge (knowing how to do something), progresses through capability (being able to something in a controlled environment) to competence.  This maps more appropriately to Simpson's Hierarchy[^1]  rather than to Bloom's Taxonomy[^2], the latter being the more usual reference for the design of academic assessment.  The two are compared with the competence spectrum, and with each other, in table 1.
 
-Item | "Competence" spectrum                           | Simpson's Hierarchy                                                    | Bloom's Taxonomy
+Level| "Competence" spectrum                           | Simpson's Hierarchy                                                    | Bloom's Taxonomy
 :---:|:----                                            |:-----                                                                  |:----
 1    |                                                 |                                                                        | **Remember**: recall facts and basic concepts
      | **Recognition**: understand what the problem is | **Perception**: responds to cues in real world                         | |
