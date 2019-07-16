@@ -65,7 +65,7 @@ plugins:
     - markdownextradata
     - pdf-export:
         verbose: false
-        combined: true
+        combined: false
         media_type: print
         enabled_if_env: ENABLE_PDF_EXPORT
 
