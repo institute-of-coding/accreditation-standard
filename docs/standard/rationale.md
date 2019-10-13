@@ -38,10 +38,10 @@ Level| "Competence" spectrum                           | Simpson's Hierarchy    
      | **Recognition**: understand what the problem is | **Perception**: responds to cues in real world                         | |
 2    | **Knowledge**: knowing how to deal with it      | **Set**: ready to apply a known sequence of steps                      | **Understand**: describe ideas or concepts
 3    | **Capability**: have done it at least once      | **Guided Response**:  imitation and practice                           | **Apply**: relate information to new situations
-4    | **Not incompetent**: doesn't repeat mistakes    | **Mechanism**: learned responses with confidence and proficiency       | |
+4    | **Conscious competent**: doesn't repeat mistakes    | **Mechanism**: learned responses with confidence and proficiency       | |
      |                                                 |                                                                        | **Analyse**: draw connections amongst ideas
 5    |                                                 |                                                                        | **Evaluate**: justify a stand or decision
-     | **Competent**: reproducible, reliable, creative | **Explicit** Overt Response: quick, accurate and coordinated performance| |
+     | **Proficient**: reproducible, reliable, creative | **Explicit** Overt Response: quick, accurate and coordinated performance| |
 
 **Table 1**: Mapping between competence hierarchy, Simpson's hierarchy and Bloom's taxonomy
 
