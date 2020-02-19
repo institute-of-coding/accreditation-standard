@@ -1,430 +1,918 @@
 
-<!DOCTYPE doctype html>
 
-<html class="no-js" lang="en">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width,initial-scale=1" name="viewport"/>
-<meta content="ie=edge" http-equiv="x-ua-compatible"/>
-<meta content="Chris Sharp" name="author"/>
-<meta content="Copy to clipboard" name="lang:clipboard.copy"/>
-<meta content="Copied to clipboard" name="lang:clipboard.copied"/>
-<meta content="en" name="lang:search.language"/>
-<meta content="True" name="lang:search.pipeline.stopwords"/>
-<meta content="True" name="lang:search.pipeline.trimmer"/>
-<meta content="No matching documents" name="lang:search.result.none"/>
-<meta content="1 matching document" name="lang:search.result.one"/>
-<meta content="# matching documents" name="lang:search.result.other"/>
-<meta content="[\s\-]+" name="lang:search.tokenizer"/>
-<link href="../../../assets/images/favicon.png" rel="shortcut icon"/>
-<meta content="mkdocs-1.0.4, mkdocs-material-4.4.0" name="generator"/>
-<title>DMAD201 - Accreditation Standard</title>
-<link href="../../../assets/stylesheets/application.0284f74d.css" rel="stylesheet"/>
-<link href="../../../assets/stylesheets/application-palette.01803549.css" rel="stylesheet"/>
-<meta content="#3f51b5" name="theme-color"/>
-<script src="../../../assets/javascripts/modernizr.74668098.js"></script>
-<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono&amp;display=fallback" rel="stylesheet"/>
-<style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
-<link href="../../../assets/fonts/material-icons.css" rel="stylesheet"/>
-<link href="../../../stylesheets/extra.css" rel="stylesheet"/>
-</head>
-<body data-md-color-accent="indigo" data-md-color-primary="indigo" dir="ltr">
-<svg class="md-svg">
-<defs>
-</defs>
-</svg>
-<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
-<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
-<label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
-<a class="md-skip" href="#dmad201-data-modelling-design" tabindex="1">
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+        <meta name="author" content="Chris Sharp">
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.6.3">
+    
+    
+      
+        <title>DMAD201 - Accreditation Standard</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.adb8469c.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.a8b3c06d.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.86422ebf.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#dmad201-data-modelling-design" tabindex="0" class="md-skip">
         Skip to content
       </a>
-<header class="md-header" data-md-component="header">
-<nav class="md-header-nav md-grid">
-<div class="md-flex">
-<div class="md-flex__cell md-flex__cell--shrink">
-<a class="md-header-nav__button md-logo" href="../../.." title="Accreditation Standard">
-<img height="24" src="../../../images/logo.svg" width="24"/>
-</a>
-</div>
-<div class="md-flex__cell md-flex__cell--shrink">
-<label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
-</div>
-<div class="md-flex__cell md-flex__cell--stretch">
-<div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
-<span class="md-header-nav__topic">
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="Accreditation Standard" aria-label="Accreditation Standard" class="md-header-nav__button md-logo">
+          
+            <img alt="logo" src="../../../images/logo.svg" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
               Accreditation Standard
             </span>
-<span class="md-header-nav__topic">
+            <span class="md-header-nav__topic">
               
                 DMAD201
               
             </span>
-</div>
-</div>
-<div class="md-flex__cell md-flex__cell--shrink">
-<label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
 <div class="md-search" data-md-component="search" role="dialog">
-<label class="md-search__overlay" for="__search"></label>
-<div class="md-search__inner" role="search">
-<form class="md-search__form" name="search">
-<input autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="query" data-md-state="active" name="query" placeholder="Search" spellcheck="false" type="text"/>
-<label class="md-icon md-search__icon" for="__search"></label>
-<button class="md-icon md-search__icon" data-md-component="reset" tabindex="-1" type="reset">
-        
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" aria-label="search" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
       </button>
-</form>
-<div class="md-search__output">
-<div class="md-search__scrollwrap" data-md-scrollfix="">
-<div class="md-search-result" data-md-component="result">
-<div class="md-search-result__meta">
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
             Type to start searching
           </div>
-<ol class="md-search-result__list"></ol>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</nav>
+        
+      </div>
+      
+    </div>
+  </nav>
 </header>
-<div class="md-container">
-<main class="md-main">
-<div class="md-main__inner md-grid" data-md-component="container">
-<div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
-<div class="md-sidebar__scrollwrap">
-<div class="md-sidebar__inner">
-<nav class="md-nav md-nav--primary" data-md-level="0">
-<label class="md-nav__title md-nav__title--site" for="__drawer">
-<a class="md-nav__button md-logo" href="../../.." title="Accreditation Standard">
-<img height="48" src="../../../images/logo.svg" width="48"/>
-</a>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main" role="main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="Accreditation Standard" class="md-nav__button md-logo">
+      
+        <img alt="logo" src="../../../images/logo.svg" width="48" height="48">
+      
+    </a>
     Accreditation Standard
   </label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../.." title="Front">
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Front" class="md-nav__link">
       Front
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../../standard/background/" title="Background">
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../standard/background/" title="Background" class="md-nav__link">
       Background
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../../standard/rationale/" title="Rationale">
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../standard/rationale/" title="Rationale" class="md-nav__link">
       Rationale
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../../standard/badges/" title="Badges">
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../standard/badges/" title="Badges" class="md-nav__link">
       Badges
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../../standard/standard/" title="The Standard">
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../standard/standard/" title="The Standard" class="md-nav__link">
       The Standard
     </a>
-</li>
-<li class="md-nav__item md-nav__item--active md-nav__item--nested">
-<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-6" id="nav-6" type="checkbox"/>
-<label class="md-nav__link" for="nav-6">
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" checked>
+    
+    <label class="md-nav__link" for="nav-6">
       Appendices
     </label>
-<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-<label class="md-nav__title" for="nav-6">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
         Appendices
       </label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../design/" title="Designing a Curriculum">
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../design/" title="Designing a Curriculum" class="md-nav__link">
       Designing a Curriculum
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../generic/" title="Generic Skills">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../generic/" title="Generic Skills" class="md-nav__link">
       Generic Skills
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../data-analytics/" title="Data Analytics">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../data-analytics/" title="Data Analytics" class="md-nav__link">
       Data Analytics
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../cybersecurity/" title="Cybersecurity">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../cybersecurity/" title="Cybersecurity" class="md-nav__link">
       Cybersecurity
     </a>
-</li>
-<li class="md-nav__item md-nav__item--active md-nav__item--nested">
-<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-6-5" id="nav-6-5" type="checkbox"/>
-<label class="md-nav__link" for="nav-6-5">
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-5" type="checkbox" id="nav-6-5" checked>
+    
+    <label class="md-nav__link" for="nav-6-5">
       Web Developer
     </label>
-<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
-<label class="md-nav__title" for="nav-6-5">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-6-5">
         Web Developer
       </label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../web-dev/" title="Curriculum">
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../web-dev/" title="Curriculum" class="md-nav__link">
       Curriculum
     </a>
-</li>
-<li class="md-nav__item md-nav__item--active md-nav__item--nested">
-<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-6-5-2" id="nav-6-5-2" type="checkbox"/>
-<label class="md-nav__link" for="nav-6-5-2">
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-5-2" type="checkbox" id="nav-6-5-2" checked>
+    
+    <label class="md-nav__link" for="nav-6-5-2">
       Modules
     </label>
-<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
-<label class="md-nav__title" for="nav-6-5-2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+      <label class="md-nav__title" for="nav-6-5-2">
         Modules
       </label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="../ARCH202/" title="ARCH202">
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ARCH202/" title="ARCH202" class="md-nav__link">
       ARCH202
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../BSYS101/" title="BSYS101">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../BSYS101/" title="BSYS101" class="md-nav__link">
       BSYS101
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../CLIN102/" title="CLIN102">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../CLIN102/" title="CLIN102" class="md-nav__link">
       CLIN102
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../CLIN202/" title="CLIN202">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../CLIN202/" title="CLIN202" class="md-nav__link">
       CLIN202
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../COMP102/" title="COMP102">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../COMP102/" title="COMP102" class="md-nav__link">
       COMP102
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../CSVC301/" title="CSVC301">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../CSVC301/" title="CSVC301" class="md-nav__link">
       CSVC301
     </a>
-</li>
-<li class="md-nav__item md-nav__item--active">
-<input class="md-toggle md-nav__toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
-<label class="md-nav__link md-nav__link--active" for="__toc">
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
         DMAD201
       </label>
-<a class="md-nav__link md-nav__link--active" href="./" title="DMAD201">
+    
+    <a href="./" title="DMAD201" class="md-nav__link md-nav__link--active">
       DMAD201
     </a>
+    
+      
 <nav class="md-nav md-nav--secondary">
-<label class="md-nav__title" for="__toc">Table of contents</label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="#skills-contributions" title="Skills Contributions">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#skills-contributions" class="md-nav__link">
     Skills Contributions
   </a>
+  
 </li>
-</ul>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../INTN/" title="INTN">
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../INTN/" title="INTN" class="md-nav__link">
       INTN
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../LEAN302/" title="LEAN302">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../LEAN302/" title="LEAN302" class="md-nav__link">
       LEAN302
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../MOBS302/" title="MOBS302">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../MOBS302/" title="MOBS302" class="md-nav__link">
       MOBS302
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../NWSC101/" title="NWSC101">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../NWSC101/" title="NWSC101" class="md-nav__link">
       NWSC101
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../NWSC202/" title="NWSC202">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../NWSC202/" title="NWSC202" class="md-nav__link">
       NWSC202
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../PROF102/" title="PROF102">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../PROF102/" title="PROF102" class="md-nav__link">
       PROF102
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../PROG101/" title="PROG101">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../PROG101/" title="PROG101" class="md-nav__link">
       PROG101
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../PROJ201/" title="PROJ201">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../PROJ201/" title="PROJ201" class="md-nav__link">
       PROJ201
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../PROJ301/" title="PROJ301">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../PROJ301/" title="PROJ301" class="md-nav__link">
       PROJ301
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../PROJ302/" title="PROJ302">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../PROJ302/" title="PROJ302" class="md-nav__link">
       PROJ302
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../RQMS301/" title="RQMS301">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../RQMS301/" title="RQMS301" class="md-nav__link">
       RQMS301
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../SPMG201/" title="SPMG201">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../SPMG201/" title="SPMG201" class="md-nav__link">
       SPMG201
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../SYSI301/" title="SYSI301">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../SYSI301/" title="SYSI301" class="md-nav__link">
       SYSI301
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../UCDD201/" title="UCDD201">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../UCDD201/" title="UCDD201" class="md-nav__link">
       UCDD201
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../WEBD102/" title="WEBD102">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../WEBD102/" title="WEBD102" class="md-nav__link">
       WEBD102
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../WEBP202/" title="WEBP202">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../WEBP202/" title="WEBP202" class="md-nav__link">
       WEBP202
     </a>
-</li>
-</ul>
-</nav>
-</li>
-</ul>
-</nav>
-</li>
-<li class="md-nav__item md-nav__item--nested">
-<input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-6" id="nav-6-6" type="checkbox"/>
-<label class="md-nav__link" for="nav-6-6">
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-6" type="checkbox" id="nav-6-6">
+    
+    <label class="md-nav__link" for="nav-6-6">
       SFIA Skills
     </label>
-<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
-<label class="md-nav__title" for="nav-6-6">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-6-6">
         SFIA Skills
       </label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/" title="Overview">
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/" title="Overview" class="md-nav__link">
       Overview
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/leadership/" title="Leadership">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/leadership/" title="Leadership" class="md-nav__link">
       Leadership
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/work-experience/" title="Experience">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/work-experience/" title="Experience" class="md-nav__link">
       Experience
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/arch/" title="ARCH">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/arch/" title="ARCH" class="md-nav__link">
       ARCH
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/dtan/" title="DTAN">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/dtan/" title="DTAN" class="md-nav__link">
       DTAN
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/hcev/" title="HCEV">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/hcev/" title="HCEV" class="md-nav__link">
       HCEV
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/inca/" title="INCA">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/inca/" title="INCA" class="md-nav__link">
       INCA
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/prof/" title="PROF">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/prof/" title="PROF" class="md-nav__link">
       PROF
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/prog/" title="PROG">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/prog/" title="PROG" class="md-nav__link">
       PROG
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/relm/" title="RELM">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/relm/" title="RELM" class="md-nav__link">
       RELM
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/reqm/" title="REQM">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/reqm/" title="REQM" class="md-nav__link">
       REQM
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/scty/" title="SCTY">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/scty/" title="SCTY" class="md-nav__link">
       SCTY
     </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../skills/sint/" title="SINT">
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../skills/sint/" title="SINT" class="md-nav__link">
       SINT
     </a>
-</li>
-</ul>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
 </nav>
-</li>
-</ul>
-</nav>
-</li>
-</ul>
-</nav>
-</div>
-</div>
-</div>
-<div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
-<div class="md-sidebar__scrollwrap">
-<div class="md-sidebar__inner">
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
 <nav class="md-nav md-nav--secondary">
-<label class="md-nav__title" for="__toc">Table of contents</label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="#skills-contributions" title="Skills Contributions">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#skills-contributions" class="md-nav__link">
     Skills Contributions
   </a>
+  
 </li>
-</ul>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
-</div>
-</div>
-</div>
-<div class="md-content">
-<article class="md-content__inner md-typeset"><a class="md-icon md-content__icon" download href="DMAD201.pdf" title="PDF Export"></a>
-<h1 id="dmad201-data-modelling-design">DMAD201: Data Modelling &amp; Design</h1>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="dmad201-data-modelling-design">DMAD201: Data Modelling &amp; Design</h1>
 <blockquote>
 <p><strong>15 credits</strong></p>
 </blockquote>
@@ -444,56 +932,80 @@
 <li><a href="../../skills/reqm/">REQM</a></li>
 <li><a href="../../skills/sint/">SINT</a></li>
 </ul>
-</article>
-</div>
-</div>
-</main>
+                
+                  
+                
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
 <footer class="md-footer">
-<div class="md-footer-nav">
-<nav class="md-footer-nav__inner md-grid">
-<a class="md-flex md-footer-nav__link md-footer-nav__link--prev" href="../CSVC301/" rel="prev" title="CSVC301">
-<div class="md-flex__cell md-flex__cell--shrink">
-<i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
-</div>
-<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-<span class="md-flex__ellipsis">
-<span class="md-footer-nav__direction">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../CSVC301/" title="CSVC301" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
                   Previous
                 </span>
                 CSVC301
               </span>
-</div>
-</a>
-<a class="md-flex md-footer-nav__link md-footer-nav__link--next" href="../INTN/" rel="next" title="INTN">
-<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-<span class="md-flex__ellipsis">
-<span class="md-footer-nav__direction">
+            </div>
+          </a>
+        
+        
+          <a href="../INTN/" title="INTN" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
                   Next
                 </span>
                 INTN
               </span>
-</div>
-<div class="md-flex__cell md-flex__cell--shrink">
-<i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
-</div>
-</a>
-</nav>
-</div>
-<div class="md-footer-meta md-typeset">
-<div class="md-footer-meta__inner md-grid">
-<div class="md-footer-copyright">
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
         
         powered by
-        <a href="https://www.mkdocs.org">MkDocs</a>
+        <a href="https://www.mkdocs.org" target="_blank" rel="noopener">MkDocs</a>
         and
-        <a href="https://squidfunk.github.io/mkdocs-material/">
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
           Material for MkDocs</a>
-</div>
-</div>
-</div>
+      </div>
+      
+    </div>
+  </div>
 </footer>
-</div>
-<script src="../../../assets/javascripts/application.245445c6.js"></script>
-<script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
-</body>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.c33a9706.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+  </body>
 </html>
