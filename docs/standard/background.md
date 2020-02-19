@@ -2,20 +2,18 @@
 
 ## 1.1 Context
 
-The proposed standard must be:
+The proposed standard must:
 
-    a. Fit for purpose for whole project especially themes 1, 2 and 3
-    b. Fit for all IoC partners
-    c. Fit for broad industry 
-    d. Takes into account existing standards
+    a. Be fit for purpose for whole project especially themes 1, 2 and 3
+    b. Be fit for all IoC partners
+    c. Be fit for broad industry 
+    d. Take into account existing standards
 
 ## 1.2. Requirements
 
-An initial discussion in the online meeting on 9th April identified a number of requirements within the context above.  
-
 1. Some overarching targets are givens:
     1. FHEQ (Framework for Higher Education Qualifications) outcomes statement
-        1. equivalents for Scotland/Wales/Northern Ireland?
+        1. equivalents for Scotland/Wales/Northern Ireland
     1. QAA (Quality Assurance Agency) subject benchmark statement
     1. (for degree apprenticeships) Institute for Apprentices (IfA) endorsement.
 
@@ -50,11 +48,9 @@ The IoC is not (yet) authorised to accredit anything – at best, it might offer
 
 ## 1.4. Opportunities
 
-In developing the new standard, we could choose to work with existing accreditation bodies (BCS, TPD, GCHQ), and/or with other bodies such as SFIA who manage a user-defined skills framework for the sector.
+In developing the new standard, we could choose to work with existing accreditation bodies (BCS, TPD, GCHQ), and/or with other bodies such as the SFIA Foundation who manage a user-defined skills framework for the sector.
 
 In order to distinguish the IoC standard from other standards, such as those managed by TPD, we might align it to professional qualifications, such as CITP, or CIISP.
-
-Early informal discussions with both BCS and SFIA indicate that they are willing – indeed, keen! – to collaborate with IoC
 
 ## 1.5. Discussion
 

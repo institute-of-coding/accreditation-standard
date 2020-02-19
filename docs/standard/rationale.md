@@ -12,7 +12,7 @@ As the latest, post-Shadbolt, venture seeking to address the "digital skills gap
 
 The primary requirements of employers include –
 
-- graduates must be billable (competent)
+- graduates must have proven experience and be ready to work in a professional working environment (competent)
 - graduates must be adaptable (underpinning knowledge for cognate skill areas)
 - graduates must be effective problem solvers (which is fundamentally what university education is about)
 
@@ -67,7 +67,7 @@ As noted in Bowers and Howson (2019)[^5], for the computing profession, the most
 
 SFIA is industry focussed, maintained and updated regularly by its user community (primarily employers).  It has become the de facto global IT skills Framework, used in nearly 200 countries by organisations and individuals to characterise and manage their skills.
 
-The underlying SFIA model is a two-dimensional matrix consisting of skills on one axis and seven levels of responsibility on the other.   SFIA (v7) describes 102 skills.  Cells in the matrix correspond to individual professional skills at various levels of competence.   A typical job – or occupation – usually comprises about three skills, usually at the same or similar levels.
+The underlying SFIA model is a two-dimensional matrix consisting of skills on one axis and seven levels of responsibility on the other.   SFIA (v7) describes 102 skills.  Cells in the matrix correspond to individual professional skills at various levels of competence.   A role or occupation typically comprises three to six skills, usually at the same or similar levels.
 
 ### 2.5.2 Choice of levels
 
@@ -81,7 +81,7 @@ In contrast, experience at SFIA Level 5 ("ensure") is the normal benchmark requi
 
 The IoC standards are defined in terms of competences in SFIA skills. The description of a SFIA skill gives *exemplar* activities that would demonstrate competence in that skill at a particular level.  The exemplars are generic, so that there is flexibility in how they should be interpreted in a particular environment.
 
-Furthermore, even if a given individual is not performing all of the suggested activities, that does not mean they are not competent.  SFIA is **not** a conjunctive checklist; the target for competence should be between 50 and 85% of the tasks specified for any skill.
+Furthermore, even if a given individual is not performing all of the suggested activities, that does not mean they are not competent.  SFIA is **not** a conjunctive checklist; the target for competence in a skill should be to meet most of the description specified for the skill at the required level.
 
 ### 2.6.2 Using BoKs
 
