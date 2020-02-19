@@ -11,8 +11,7 @@ The IoC standard for a Bachelor’s degree with honours specifies that students 
 - have demonstrated the responsibility characteristics for SFIA Level 3;
 - have demonstrated competence in one or more relevant SFIA skills at level 3 (the competence skill(s));
 - have underpinning knowledge for a total of four SFIA skills at levels 3 or 4, including the competence skill(s), and with at least one at SFIA level 4;
-- understand and apply the legal, social, ethical and professional issues that are relevant to the chosen skills;
-- heed the drivers for sustainable computing in the context of the chosen skills.
+- understand and apply the legal, social, ethical, and professional issues, and drivers for sustainable computing that are relevant to the chosen skills;
 
 The demonstration of competence requires that students have not done things just once or twice, in a controlled/safe environment, but have had experience sufficient to be competent to deploy the skills for a real customer, without needing routine supervision.
 
