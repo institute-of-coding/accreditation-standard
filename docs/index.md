@@ -9,6 +9,4 @@ Co-leads:
 
 For more information visit [instituteofcoding.org](https://instituteofcoding.org).
 
-> DRAFT PROPOSAL {{ spec.version }}
->
-> This is an evolving document and should not be used to implement any programme or curricula.
+> Version {{ spec.version }}
