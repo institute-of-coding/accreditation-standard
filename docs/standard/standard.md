@@ -20,7 +20,7 @@ Graduates should:
 * understand and apply the legal, social, ethical and professional principles that are relevant to their chosen skills;
 * demonstrate an understanding of the need for sustainable computing in the context of their chosen skills.
 
-The minimum level of competence which must be demonstrated is: repeated successful application of the components of the relevant skill, in a real-world context, over a period of time.  This corresponds at least to conscious competence, or *skill* in the terminology of ISO 24773.
+The minimum level of competence which must be demonstrated is: repeated successful application of the components of the relevant skill, in a real-world context, over a period of time.  This corresponds at least to **conscious competence**, or *skill* in the terminology of ISO 24773.
 
 Note that these standards make no assumptions about the format of delivery of a degree – so, for example, the standards apply equally to university-based degrees, degree apprenticeships and degrees incorporating an industrial placement.
 
